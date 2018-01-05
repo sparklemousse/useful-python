@@ -12,3 +12,6 @@ Downloads a PDF (or any asset) multiple times (for testing GA)
 
 ## content-api-scrape.py
 Basic scraper (here for dates) off GOV.UK's content API
+
+## attachment-scraper.py
+scraping list of attachments off GOV.UK publication pages
